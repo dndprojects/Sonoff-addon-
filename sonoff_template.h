@@ -1,6 +1,6 @@
 ## replace Pow with this
 
-   { "Sonoff Pow",     // Sonoff Pow (ESP8266) // Ezra 1 (Serial) + 4 connect to chip
+   { "Sonoff Pow",     // Sonoff Pow (ESP8266) // add 1 (Serial) + 4 connect to chip
      GPIO_KEY1,        // GPIO00 Button
      GPIO_USER,        // GPIO01 Button (Serial Out)
      0, 0,             // GPIO02 GPIO03 can't use 
